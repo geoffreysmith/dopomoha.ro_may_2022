@@ -10,6 +10,10 @@ https://ec.europa.eu/info/sites/default/files/information_for_people_fleeing_rus
 
 https://www.parainmigrantes.info/
 
+# this looks *very* interesting, but appears to only be in UK/ES not RU, which is an oversight.
+
+https://www.inclusion.gob.es/uk/ucrania/index.htm
+
 # language learning resources:
 
 This is the official european pictogram resource for learning languages. I think it would be good for
