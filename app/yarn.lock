@@ -9373,6 +9373,11 @@ std-env@^2.2.1:
   dependencies:
     ci-info "^3.1.1"
 
+strapi-plugin-bootstrap-admin-user@^1.0.8:
+  version "1.0.8"
+  resolved "https://registry.yarnpkg.com/strapi-plugin-bootstrap-admin-user/-/strapi-plugin-bootstrap-admin-user-1.0.8.tgz#adf79f13d7d0456a55035104331b6bacafd8c23f"
+  integrity sha512-PB1VUcFx8Vo6CMG3FQJE58+K1THPDdGKKApd/DGwhQAK/clfH3q8Lo3XwxkXY/ga1XmLTO4HJPKHSygNkxhHNw==
+
 stream-browserify@^3.0.0:
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/stream-browserify/-/stream-browserify-3.0.0.tgz#22b0a2850cdf6503e73085da1fc7b7d0c2122f2f"
