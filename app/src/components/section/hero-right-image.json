@@ -1,0 +1,26 @@
+{
+  "collectionName": "components_section_hero_right_images",
+  "info": {
+    "displayName": "Hero Right Image",
+    "icon": "address-card"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "default": "Ukrainians fleeing war at home are welcomed to Romania",
+      "required": true
+    },
+    "description": {
+      "type": "richtext",
+      "default": "Anybody fleeing Ukraine can enter Romania through any of the official border crossings.  On this platform created by Code for Romania in partnership with the Department of Emergency Situations of the Ministry of Internal Affairs, the UN Refugee Agency, the International Organization for Migration and the Romanian National Council for Refugees civilians fleeing the war in Ukraine can find all relevant information about seeking protection in Romania."
+    },
+    "image": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}

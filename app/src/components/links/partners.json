@@ -1,0 +1,23 @@
+{
+  "collectionName": "components_links_partners",
+  "info": {
+    "displayName": "Partners",
+    "icon": "address-book"
+  },
+  "options": {},
+  "attributes": {
+    "url": {
+      "type": "string",
+      "required": true,
+      "default": "https://www.google.com"
+    },
+    "logo": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": true,
+      "required": true
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+    "collectionName": "components_section_three_by_one_ctas",
+    "info": {
+        "displayName": "Three By One CTA",
+        "icon": "atom"
+    },
+    "options": {},
+    "attributes": {
+        "HomepageCTAIcons": {
+            "type": "component",
+            "repeatable": true,
+            "component": "section.homepage-cta-icons"
+        }
+    }
+}

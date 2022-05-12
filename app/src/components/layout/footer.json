@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_layout_footers",
+  "info": {
+    "displayName": "footer",
+    "icon": "arrow-down"
+  },
+  "options": {},
+  "attributes": {
+    "text": {
+      "type": "richtext",
+      "default": "If you’d like to report any mistakes, inconsistencies or omissions please let us know by writing an e-mail to dopomoha@code4.ro. We’ll do our best to integrate your feedback."
+    }
+  }
+}

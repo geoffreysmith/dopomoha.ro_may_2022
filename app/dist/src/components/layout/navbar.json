@@ -1,0 +1,24 @@
+{
+    "collectionName": "components_layout_navbars",
+    "info": {
+        "displayName": "navbar",
+        "icon": "bible"
+    },
+    "options": {},
+    "attributes": {
+        "bannerText": {
+            "type": "richtext",
+            "default": "If you are fleeing war in Ukraine, you can access financial support from UNHCR. Details here."
+        },
+        "links": {
+            "type": "component",
+            "repeatable": true,
+            "component": "links.link"
+        },
+        "partners": {
+            "type": "component",
+            "repeatable": true,
+            "component": "links.partners"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+  "collectionName": "components_section_homepage_cta_icons",
+  "info": {
+    "displayName": "Homepage CTA Icons",
+    "icon": "american-sign-language-interpreting"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true,
+      "default": "Google"
+    },
+    "url": {
+      "type": "string",
+      "default": "https://www.google.com",
+      "required": true
+    },
+    "image": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false,
+      "required": true
+    }
+  }
+}
