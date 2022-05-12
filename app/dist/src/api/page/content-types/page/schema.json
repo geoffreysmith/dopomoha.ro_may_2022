@@ -1,0 +1,51 @@
+{
+    "kind": "collectionType",
+    "collectionName": "pages",
+    "info": {
+        "singularName": "page",
+        "pluralName": "pages",
+        "displayName": "Page"
+    },
+    "options": {
+        "draftAndPublish": true
+    },
+    "pluginOptions": {
+        "i18n": {
+            "localized": true
+        }
+    },
+    "attributes": {
+        "title": {
+            "pluginOptions": {
+                "i18n": {
+                    "localized": true
+                }
+            },
+            "type": "string",
+            "default": "Dopomoha",
+            "required": true
+        },
+        "metadata": {
+            "type": "component",
+            "repeatable": false,
+            "pluginOptions": {
+                "i18n": {
+                    "localized": true
+                }
+            },
+            "component": "meta.metadata"
+        },
+        "contentSections": {
+            "pluginOptions": {
+                "i18n": {
+                    "localized": true
+                }
+            },
+            "type": "dynamiczone",
+            "components": [
+                "layout.three-by-one-cta",
+                "section.hero-right-image"
+            ]
+        }
+    }
+}
